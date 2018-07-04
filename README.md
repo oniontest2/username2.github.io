@@ -14,9 +14,9 @@ This is from oniontest2. But commit shows it's from oniontest1... Be careful.
 Edit from oniontest1:
 ---
 I'd suggest practicing git using multiple accounts. Use different browser and use local user.name, user.email. Then add SSH Host info to `~/.ssh/config`
-Great.
+
 
 Edit from oniontest2:
 ---
-This repo is created by oniontest2(me).
+This repo is created by oniontest2.
 
