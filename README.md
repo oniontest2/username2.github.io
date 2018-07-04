@@ -19,6 +19,3 @@ Edit from oniontest2:
 ---
 This repo is created by oniontest2.
 
-Edit from oniontest2:
----
-This repo is created by oniontest2.
