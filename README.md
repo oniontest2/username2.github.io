@@ -1,4 +1,7 @@
 This is username2.github.io
 
 Good Good
-This is from oniontest2. But commit shows it's from oniontest1... Be careful. Email also faked.
+
+This is from oniontest2. But commit shows it's from oniontest1... Be careful.
+
+`user.name` setting is more important than `user.email`
